@@ -1,0 +1,39 @@
+is_global = true
+build_property.AvaloniaNameGeneratorIsEnabled = true
+build_property.AvaloniaNameGeneratorBehavior = InitializeComponent
+build_property.AvaloniaNameGeneratorDefaultFieldModifier = internal
+build_property.AvaloniaNameGeneratorFilterByPath = *
+build_property.AvaloniaNameGeneratorFilterByNamespace = *
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = KURSK
+build_property.ProjectDir = C:\Users\bor18\OneDrive\Рабочий стол\КУРСК\KURSK\KURSK\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/Users/bor18/OneDrive/Рабочий стол/КУРСК/KURSK/KURSK/AddUpd.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/bor18/OneDrive/Рабочий стол/КУРСК/KURSK/KURSK/App.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/bor18/OneDrive/Рабочий стол/КУРСК/KURSK/KURSK/Doctor.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/bor18/OneDrive/Рабочий стол/КУРСК/KURSK/KURSK/Form2.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/bor18/OneDrive/Рабочий стол/КУРСК/KURSK/KURSK/MainWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/bor18/OneDrive/Рабочий стол/КУРСК/KURSK/KURSK/Patient.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/bor18/OneDrive/Рабочий стол/КУРСК/KURSK/KURSK/Procedures.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml

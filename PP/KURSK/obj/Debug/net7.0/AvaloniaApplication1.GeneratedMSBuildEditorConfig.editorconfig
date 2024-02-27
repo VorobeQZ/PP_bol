@@ -1,0 +1,39 @@
+is_global = true
+build_property.AvaloniaNameGeneratorIsEnabled = true
+build_property.AvaloniaNameGeneratorBehavior = InitializeComponent
+build_property.AvaloniaNameGeneratorDefaultFieldModifier = internal
+build_property.AvaloniaNameGeneratorFilterByPath = *
+build_property.AvaloniaNameGeneratorFilterByNamespace = *
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AvaloniaApplication1
+build_property.ProjectDir = C:\Users\bor18\OneDrive\Рабочий стол\УП_Одновалов\AvaloniaApplication1\AvaloniaApplication1\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/Users/bor18/OneDrive/Рабочий стол/УП_Одновалов/AvaloniaApplication1/AvaloniaApplication1/AddUpd.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/bor18/OneDrive/Рабочий стол/УП_Одновалов/AvaloniaApplication1/AvaloniaApplication1/App.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/bor18/OneDrive/Рабочий стол/УП_Одновалов/AvaloniaApplication1/AvaloniaApplication1/Doctor.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/bor18/OneDrive/Рабочий стол/УП_Одновалов/AvaloniaApplication1/AvaloniaApplication1/Form2.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/bor18/OneDrive/Рабочий стол/УП_Одновалов/AvaloniaApplication1/AvaloniaApplication1/MainWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/bor18/OneDrive/Рабочий стол/УП_Одновалов/AvaloniaApplication1/AvaloniaApplication1/Patient.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/bor18/OneDrive/Рабочий стол/УП_Одновалов/AvaloniaApplication1/AvaloniaApplication1/Procedures.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
